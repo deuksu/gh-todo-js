@@ -24,7 +24,7 @@ function addTodo() {
   const deleteBtn = document.createElement("button");
   deleteBtn.textContent = "삭제";
   deleteBtn.addEventListener("click", () => {
-    todoInput.removeChild(li);
+    todoList.removeChild(li);
   });
 
   li.appendChild(span);

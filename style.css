@@ -27,6 +27,10 @@ body {
   padding: 10px 20px;
 }
 
+#todo-list {
+  padding: unset;
+}
+
 #todo-list li {
   display: flex;
   justify-content: space-between;

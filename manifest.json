@@ -2,7 +2,7 @@
   "name": "to-do list",
   "short_name": "to-do list",
   "description": "웹앱 to-do",
-  "short_url": "/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
